@@ -25,6 +25,6 @@
     "bower_components"
   ],
   "dependencies": {
-    "imgcache.js": "^1.0.0"
+      "imgcache.js": "https://github.com/shah-pooja/ionic-img-cache.git"
   }
 }
