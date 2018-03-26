@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/vitaliy-bobrov/ionic-img-cache#readme",
   "dependencies": {
-    "imgcache.js": "^1.1.0"
+    "imgcache.js": "https://github.com/shah-pooja/ionic-img-cache.git"
   },
   "devDependencies": {
     "eslint-config-angular": "^0.5.0",
